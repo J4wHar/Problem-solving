@@ -2,7 +2,7 @@ class Solution {
     private int n, m;
     private int[][] memo = new int[100][100];
     private boolean safe(int x, int y){
-        return x>=0 && x<n && y>=0 && y<m;
+        return x<n && y<m;
     }
     private int solve(int i, int j, int[][] grid){
         if(i==n-1 && j==m-1){
