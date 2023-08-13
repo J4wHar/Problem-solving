@@ -1,6 +1,6 @@
 class Solution {
 public:
-    map<int,bool> memo;
+    unordered_map<int,bool> memo;
     int n;
     bool solve(int i, vector<int>& nums){
         if(i == n){
