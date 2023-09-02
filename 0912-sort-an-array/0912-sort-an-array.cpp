@@ -1,38 +1,39 @@
 class Solution {
 public:
-    vector<int> mrg(vector<int>& left, vector<int>& right){
+    void mrg(int l, int md, int r, vector<int>& nums){
         vector<int> ans;
-        int l=0, r=0, n=left.size(), m=right.size();
-        while(l<n && r<m){
-            if(left[l] < right[r]){
-                ans.push_back(left[l++]);
+        int i=l, j=md+1;
+        while(i<=md && j<=r){
+            if(nums[i] < nums[j]){
+                ans.push_back(nums[i++]);
             }else{
-                ans.push_back(right[r++]);
+                ans.push_back(nums[j++]);
             }
         }
-        while(l<n){
-            ans.push_back(left[l++]);
+        while(i<=md){
+            ans.push_back(nums[i++]);
         }
-        while(r<m){
-            ans.push_back(right[r++]);
+        while(j<=r){
+            ans.push_back(nums[j++]);
         }
-        return ans;
+        int idx = 0;
+        for(int i=l;i<=r;++i){
+            nums[i] = ans[idx++];
+        }
+    }
+    
+    void sort(int l, int r, vector<int>& nums){
+        if(l == r){
+            return;
+        }
+        int m = l+(r-l)/2;
+        sort(l, m, nums);
+        sort(m+1, r, nums);
+        mrg(l, m, r, nums);
     }
     
     vector<int> sortArray(vector<int>& nums) {
-        if(nums.size() <= 1){
-            return nums;
-        }
-        int n = nums.size();
-        vector<int> left, right;
-        for(int i=0;i<(n>>1);++i){
-            left.push_back(nums[i]);
-        }
-        for(int i=(n>>1);i<n;++i){
-            right.push_back(nums[i]);
-        }
-        left = sortArray(left);
-        right = sortArray(right);
-        return mrg(left, right);
+        sort(0, nums.size()-1, nums);
+        return nums;
     }
 };
