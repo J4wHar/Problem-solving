@@ -1,7 +1,6 @@
 class Solution {
 public:
-    
-    vector<int> mrg(vector<int> left, vector<int> right){
+    vector<int> mrg(vector<int>& left, vector<int>& right){
         vector<int> ans;
         int l=0, r=0, n=left.size(), m=right.size();
         while(l<n && r<m){
@@ -24,14 +23,16 @@ public:
         if(nums.size() <= 1){
             return nums;
         }
-        vector<int> left, right;
         int n = nums.size();
+        vector<int> left, right;
         for(int i=0;i<(n>>1);++i){
             left.push_back(nums[i]);
         }
         for(int i=(n>>1);i<n;++i){
             right.push_back(nums[i]);
         }
-        return mrg(sortArray(left), sortArray(right));
+        left = sortArray(left);
+        right = sortArray(right);
+        return mrg(left, right);
     }
 };
