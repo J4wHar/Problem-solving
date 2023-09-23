@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isPref(string s, string t){
+    bool isPref(string& s, string& t){
         int n = s.size();
         int m = t.size();
         int i=0, j=0;
