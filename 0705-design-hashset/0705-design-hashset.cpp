@@ -1,8 +1,8 @@
 class MyHashSet {
 public:
-    bitset<1000001> hashSet = 0;
+    bitset<1000001> hashSet;
     MyHashSet() {
-        
+        hashSet = 0;
     }
     
     void add(int key) {
