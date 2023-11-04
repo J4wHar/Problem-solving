@@ -4,7 +4,7 @@ public:
         return p1.second > p2.second;
     }
     int longestPalindrome(string s) {
-        map<char, int> occ;
+        unordered_map<char, int> occ;
         vector<pair<char, int>> v;
         bool impAvailable = true;
         int ans = 0;
