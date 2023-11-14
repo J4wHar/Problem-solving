@@ -5,7 +5,7 @@ public:
         if(sum < 0){
             return;
         }
-        if(s.size() == (n<<1)){
+        if(s.size() == n){
             if(sum == 0){
                 ans.push_back(s);
             }
@@ -17,7 +17,7 @@ public:
     vector<string> generateParenthesis(int n) {
         string s = "";
         int sum = 0;
-        backtrack(s, sum, n);
+        backtrack(s, sum, n<<1);
         return ans;
     }
 };
