@@ -1,28 +1,31 @@
 class Solution {
 public:
-    int n, m;
-    int memo[501][501];
-    int solve(int i, int j, string& s1, string& s2){
-        if(j == m && i == n){
-            return 0;
-        }
-        if(i > n || j > m){
-            return 1e7;
-        }
-        if(memo[i][j] != -1){
-            return memo[i][j];
-        }
-        if(s1[i] == s2[j]){
-            return memo[i][j] = solve(i+1, j+1, s1, s2);
-        }
-        return memo[i][j] = 1+min(solve(i+1, j+1, s1, s2), //replace
-                                 min(solve(i+1, j, s1, s2), //delete
-                                 solve(i, j+1, s1, s2))); //insert 
+int dp[500][500];
+
+int solve(int i, int j, string& word1, string& word2){
+    if (j == word2.size()){
+        return word1.size()-i;
     }
-    int minDistance(string word1, string word2) {
-        n = word1.size();
-        m = word2.size();
-        memset(memo, -1, sizeof memo);
-        return solve(0, 0, word1, word2);
+
+    if (i == word1.size()){
+        return word2.size()-j;
     }
+
+    if (dp[i][j] != -1){
+        return dp[i][j];
+    }
+
+    if (word1[i] == word2[j]){
+        return dp[i][j] = solve(i+1, j+1, word1, word2);
+    }
+
+    return dp[i][j] = 1 + min(solve(i+1, j, word1, word2),
+                              min(solve(i, j+1, word1, word2), solve(i+1, j+1, word1, word2))
+                              );
+}
+
+int minDistance(string word1, string word2) {
+    memset(dp, -1, sizeof dp);
+    return solve(0, 0, word1, word2);
+}
 };
