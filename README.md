@@ -15,4 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/J4wHar/Problem-solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/J4wHar/Problem-solving/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/J4wHar/Problem-solving/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
