@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/J4wHar/Problem-solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -27,4 +28,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/J4wHar/Problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
+## Depth-First Search
+|  |
+| ------- |
+| [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
+## Union Find
+|  |
+| ------- |
+| [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
+## Graph
+|  |
+| ------- |
+| [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
 <!---LeetCode Topics End-->
