@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/J4wHar/Problem-solving/tree/master/0072-edit-distance) |
+| [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
 ## Union Find
@@ -68,4 +70,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/J4wHar/Problem-solving/tree/master/0907-koko-eating-bananas) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
