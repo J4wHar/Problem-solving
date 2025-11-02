@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/J4wHar/Problem-solving/tree/master/0525-contiguous-array) |
 | [0907-koko-eating-bananas](https://github.com/J4wHar/Problem-solving/tree/master/0907-koko-eating-bananas) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/J4wHar/Problem-solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/J4wHar/Problem-solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## String
 |  |
 | ------- |
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
