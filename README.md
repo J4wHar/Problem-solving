@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/J4wHar/Problem-solving/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/J4wHar/Problem-solving/tree/master/0097-interleaving-string) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/J4wHar/Problem-solving/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Math
 |  |
 | ------- |
