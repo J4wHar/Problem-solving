@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/J4wHar/Problem-solving/tree/master/0621-task-scheduler) |
 | [0907-koko-eating-bananas](https://github.com/J4wHar/Problem-solving/tree/master/0907-koko-eating-bananas) |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/J4wHar/Problem-solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/J4wHar/Problem-solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
