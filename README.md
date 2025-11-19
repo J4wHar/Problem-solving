@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/J4wHar/Problem-solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
 |  |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/J4wHar/Problem-solving/tree/master/0621-task-scheduler) |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
