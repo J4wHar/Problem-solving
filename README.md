@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/J4wHar/Problem-solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/J4wHar/Problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/J4wHar/Problem-solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/J4wHar/Problem-solving/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/J4wHar/Problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/J4wHar/Problem-solving/tree/master/0097-interleaving-string) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/J4wHar/Problem-solving/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/J4wHar/Problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/J4wHar/Problem-solving/tree/master/0621-task-scheduler) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/J4wHar/Problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sorting
 |  |
 | ------- |
