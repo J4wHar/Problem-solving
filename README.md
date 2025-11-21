@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/J4wHar/Problem-solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/J4wHar/Problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/J4wHar/Problem-solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,11 +87,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/J4wHar/Problem-solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/J4wHar/Problem-solving/tree/master/0525-contiguous-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/J4wHar/Problem-solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
@@ -152,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/J4wHar/Problem-solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
