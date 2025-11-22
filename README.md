@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/J4wHar/Problem-solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/J4wHar/Problem-solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/J4wHar/Problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Depth-First Search
 |  |
 | ------- |
