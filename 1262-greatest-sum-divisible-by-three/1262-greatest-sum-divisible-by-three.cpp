@@ -25,10 +25,6 @@ public:
             }
         }
 
-        for (int i = 1; i <= n; ++i) {
-            cout << " " << dp[i][0];
-        }
-
         return dp[n][0];
     }
 };
