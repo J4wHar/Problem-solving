@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/J4wHar/Problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/J4wHar/Problem-solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/J4wHar/Problem-solving/tree/master/2211-count-collisions-on-a-road) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/J4wHar/Problem-solving/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2211-count-collisions-on-a-road](https://github.com/J4wHar/Problem-solving/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/J4wHar/Problem-solving/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
