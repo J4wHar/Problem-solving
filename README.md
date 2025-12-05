@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/J4wHar/Problem-solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/J4wHar/Problem-solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/J4wHar/Problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/J4wHar/Problem-solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Depth-First Search
 |  |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1590-make-sum-divisible-by-p](https://github.com/J4wHar/Problem-solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/J4wHar/Problem-solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/J4wHar/Problem-solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Stack
 |  |
 | ------- |
