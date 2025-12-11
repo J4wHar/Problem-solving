@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/J4wHar/Problem-solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/J4wHar/Problem-solving/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/J4wHar/Problem-solving/tree/master/3583-count-special-triplets) |
 ## Breadth-First Search
 |  |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/J4wHar/Problem-solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/J4wHar/Problem-solving/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/J4wHar/Problem-solving/tree/master/3583-count-special-triplets) |
 ## Prefix Sum
 |  |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/J4wHar/Problem-solving/tree/master/3074-apple-redistribution-into-boxes) |
+| [3531-count-covered-buildings](https://github.com/J4wHar/Problem-solving/tree/master/3531-count-covered-buildings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
