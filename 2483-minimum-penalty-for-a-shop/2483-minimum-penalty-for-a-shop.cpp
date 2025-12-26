@@ -1,23 +1,31 @@
 class Solution {
 public:
     int bestClosingTime(string customers) {
-        int cnt = 0;
+        int ans = 0;
+        int loss = 1e6;
+        int cntY = 0;
+        int curCntN = 0;
+        int curCntY = 0;
         int n = customers.size();
-        int pref[n+1];
-        pref[0] = 0;
-        for(int i=1;i<=n;++i){
-            if(customers[i-1] == 'Y'){
-                pref[i] = pref[i-1] + 1;
-            }else{
-                pref[i] = pref[i-1] - 1;
-            }
-            cnt = max(cnt, pref[i]);
+        for (auto& x : customers) {
+            cntY += (x == 'Y');
         }
-        for(int i=0;i<=n;++i){
-            if(pref[i] == cnt){
-                return i;
+        for (int i = 0; i < n; ++i) {
+            char x = customers[i];
+            int curLoss = curCntN + (cntY - curCntY);
+            if (curLoss < loss) {
+                ans = i;
+                loss = curLoss;
             }
+            curCntN += (x == 'N');
+            curCntY += (x == 'Y');
         }
-        return 0;
+        int curLoss = curCntN + (cntY - curCntY);
+        if (curLoss < loss) {
+            ans = n;
+            loss = curLoss;
+        }
+
+        return ans;
     }
 };
