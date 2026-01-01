@@ -3,21 +3,26 @@ public:
     vector<int> plusOne(vector<int>& digits) {
         int n = digits.size();
         int carry = 1;
-        reverse(digits.begin() , digits.end());
-        for(int i=0;i<n;++i){
-            if(carry){
-                if(digits[i] == 9){
-                    digits[i] = 0;
-                }else{
-                    ++digits[i];
-                    carry = 0;
-                }
+        for (int i=n-1;i>=0;--i){
+            digits[i] += carry;
+            if (digits[i] < 10){
+                carry = 0;
+            } else {
+                digits[i] %= 10;
+                carry = 1;
             }
         }
-        if(carry){
-            digits.push_back(1);
+        if (carry == 0){
+            return digits;
+        } else {
+            vector<int> ans;
+            ans.push_back(1);
+            for (auto& x : digits){
+                ans.push_back(x);
+            }
+            return ans;
         }
-        reverse(digits.begin() , digits.end());
-        return digits;
+
+        return {};
     }
 };
