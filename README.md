@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0840-magic-squares-in-grid](https://github.com/J4wHar/Problem-solving/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/J4wHar/Problem-solving/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/J4wHar/Problem-solving/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/J4wHar/Problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/J4wHar/Problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1109-corporate-flight-bookings](https://github.com/J4wHar/Problem-solving/tree/master/1109-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/J4wHar/Problem-solving/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/J4wHar/Problem-solving/tree/master/0791-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/J4wHar/Problem-solving/tree/master/0840-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/J4wHar/Problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/J4wHar/Problem-solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
