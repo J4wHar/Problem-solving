@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/J4wHar/Problem-solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/J4wHar/Problem-solving/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/J4wHar/Problem-solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/J4wHar/Problem-solving/tree/master/1590-make-sum-divisible-by-p) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/J4wHar/Problem-solving/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/J4wHar/Problem-solving/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/J4wHar/Problem-solving/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/J4wHar/Problem-solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/J4wHar/Problem-solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/J4wHar/Problem-solving/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
