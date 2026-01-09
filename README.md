@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0112-path-sum](https://github.com/J4wHar/Problem-solving/tree/master/0112-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/J4wHar/Problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/J4wHar/Problem-solving/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/J4wHar/Problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/J4wHar/Problem-solving/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/J4wHar/Problem-solving/tree/master/0791-custom-sort-string) |
 | [0840-magic-squares-in-grid](https://github.com/J4wHar/Problem-solving/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/J4wHar/Problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/J4wHar/Problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/J4wHar/Problem-solving/tree/master/1590-make-sum-divisible-by-p) |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/J4wHar/Problem-solving/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/J4wHar/Problem-solving/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/J4wHar/Problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -203,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/J4wHar/Problem-solving/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/J4wHar/Problem-solving/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/J4wHar/Problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/J4wHar/Problem-solving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
