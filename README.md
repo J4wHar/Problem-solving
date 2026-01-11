@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/J4wHar/Problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/J4wHar/Problem-solving/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/J4wHar/Problem-solving/tree/master/0134-gas-station) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/J4wHar/Problem-solving/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/J4wHar/Problem-solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/J4wHar/Problem-solving/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/J4wHar/Problem-solving/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/J4wHar/Problem-solving/tree/master/0097-interleaving-string) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
@@ -172,12 +175,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/J4wHar/Problem-solving/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2211-count-collisions-on-a-road](https://github.com/J4wHar/Problem-solving/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/J4wHar/Problem-solving/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
