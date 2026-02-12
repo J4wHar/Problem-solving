@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-count-collisions-on-a-road](https://github.com/J4wHar/Problem-solving/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/J4wHar/Problem-solving/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/J4wHar/Problem-solving/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3531-count-covered-buildings](https://github.com/J4wHar/Problem-solving/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/J4wHar/Problem-solving/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/J4wHar/Problem-solving/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/J4wHar/Problem-solving/tree/master/3713-longest-balanced-substring-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [3583-count-special-triplets](https://github.com/J4wHar/Problem-solving/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/J4wHar/Problem-solving/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -280,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/J4wHar/Problem-solving/tree/master/1266-minimum-time-visiting-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/J4wHar/Problem-solving/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
