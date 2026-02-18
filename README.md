@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/J4wHar/Problem-solving/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/J4wHar/Problem-solving/tree/master/0134-gas-station) |
+| [0413-arithmetic-slices](https://github.com/J4wHar/Problem-solving/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/J4wHar/Problem-solving/tree/master/0496-next-greater-element-i) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/J4wHar/Problem-solving/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/J4wHar/Problem-solving/tree/master/0097-interleaving-string) |
+| [0413-arithmetic-slices](https://github.com/J4wHar/Problem-solving/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/J4wHar/Problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -290,4 +292,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/J4wHar/Problem-solving/tree/master/3713-longest-balanced-substring-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/J4wHar/Problem-solving/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
