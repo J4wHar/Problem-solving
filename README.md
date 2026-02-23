@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/J4wHar/Problem-solving/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
+| [0482-license-key-formatting](https://github.com/J4wHar/Problem-solving/tree/master/0482-license-key-formatting) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/J4wHar/Problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0791-custom-sort-string](https://github.com/J4wHar/Problem-solving/tree/master/0791-custom-sort-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/J4wHar/Problem-solving/tree/master/0944-delete-columns-to-make-sorted) |
