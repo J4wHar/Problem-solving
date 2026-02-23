@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/J4wHar/Problem-solving/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/J4wHar/Problem-solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-count-collisions-on-a-road](https://github.com/J4wHar/Problem-solving/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/J4wHar/Problem-solving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/J4wHar/Problem-solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/J4wHar/Problem-solving/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3433-count-mentions-per-user](https://github.com/J4wHar/Problem-solving/tree/master/3433-count-mentions-per-user) |
 ## Greedy
 |  |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0621-task-scheduler](https://github.com/J4wHar/Problem-solving/tree/master/0621-task-scheduler) |
 | [2054-two-best-non-overlapping-events](https://github.com/J4wHar/Problem-solving/tree/master/2054-two-best-non-overlapping-events) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/J4wHar/Problem-solving/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Counting
 |  |
 | ------- |
@@ -307,4 +310,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/J4wHar/Problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Two Pointers
+|  |
+| ------- |
+| [2462-total-cost-to-hire-k-workers](https://github.com/J4wHar/Problem-solving/tree/master/2462-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
