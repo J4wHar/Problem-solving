@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/J4wHar/Problem-solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0791-custom-sort-string](https://github.com/J4wHar/Problem-solving/tree/master/0791-custom-sort-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/J4wHar/Problem-solving/tree/master/0944-delete-columns-to-make-sorted) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/J4wHar/Problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/J4wHar/Problem-solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/J4wHar/Problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/J4wHar/Problem-solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/J4wHar/Problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/J4wHar/Problem-solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/J4wHar/Problem-solving/tree/master/1777-determine-if-two-strings-are-close) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/J4wHar/Problem-solving/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/J4wHar/Problem-solving/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/J4wHar/Problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/J4wHar/Problem-solving/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Geometry
 |  |
@@ -296,4 +299,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/J4wHar/Problem-solving/tree/master/0413-arithmetic-slices) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/J4wHar/Problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/J4wHar/Problem-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
