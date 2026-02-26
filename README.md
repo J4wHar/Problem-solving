@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/J4wHar/Problem-solving/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/J4wHar/Problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/J4wHar/Problem-solving/tree/master/0743-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/J4wHar/Problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/J4wHar/Problem-solving/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/J4wHar/Problem-solving/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/J4wHar/Problem-solving/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0743-network-delay-time](https://github.com/J4wHar/Problem-solving/tree/master/0743-network-delay-time) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/J4wHar/Problem-solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/J4wHar/Problem-solving/tree/master/0922-possible-bipartition) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/J4wHar/Problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/J4wHar/Problem-solving/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/J4wHar/Problem-solving/tree/master/0743-network-delay-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/J4wHar/Problem-solving/tree/master/2054-two-best-non-overlapping-events) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/J4wHar/Problem-solving/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Counting
@@ -326,4 +329,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/J4wHar/Problem-solving/tree/master/2462-total-cost-to-hire-k-workers) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/J4wHar/Problem-solving/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/J4wHar/Problem-solving/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
