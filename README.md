@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2462-total-cost-to-hire-k-workers](https://github.com/J4wHar/Problem-solving/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/J4wHar/Problem-solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/J4wHar/Problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/J4wHar/Problem-solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/J4wHar/Problem-solving/tree/master/3433-count-mentions-per-user) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/J4wHar/Problem-solving/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/J4wHar/Problem-solving/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/J4wHar/Problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/J4wHar/Problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/J4wHar/Problem-solving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/J4wHar/Problem-solving/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/J4wHar/Problem-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/J4wHar/Problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/J4wHar/Problem-solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/J4wHar/Problem-solving/tree/master/2054-two-best-non-overlapping-events) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/J4wHar/Problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/J4wHar/Problem-solving/tree/master/3453-separate-squares-i) |
 ## Backtracking
 |  |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/J4wHar/Problem-solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/J4wHar/Problem-solving/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/J4wHar/Problem-solving/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/J4wHar/Problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -286,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/J4wHar/Problem-solving/tree/master/0743-network-delay-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/J4wHar/Problem-solving/tree/master/2054-two-best-non-overlapping-events) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/J4wHar/Problem-solving/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/J4wHar/Problem-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Counting
 |  |
 | ------- |
