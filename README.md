@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/J4wHar/Problem-solving/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/J4wHar/Problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0274-h-index](https://github.com/J4wHar/Problem-solving/tree/master/0274-h-index) |
 | [0413-arithmetic-slices](https://github.com/J4wHar/Problem-solving/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/J4wHar/Problem-solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/J4wHar/Problem-solving/tree/master/0474-ones-and-zeroes) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/J4wHar/Problem-solving/tree/master/0274-h-index) |
 | [0621-task-scheduler](https://github.com/J4wHar/Problem-solving/tree/master/0621-task-scheduler) |
 | [0791-custom-sort-string](https://github.com/J4wHar/Problem-solving/tree/master/0791-custom-sort-string) |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/J4wHar/Problem-solving/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/J4wHar/Problem-solving/tree/master/1217-relative-sort-array) |
 ## Bit Manipulation
 |  |
