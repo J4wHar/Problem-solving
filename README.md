@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0071-simplify-path](https://github.com/J4wHar/Problem-solving/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/J4wHar/Problem-solving/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/J4wHar/Problem-solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/J4wHar/Problem-solving/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/J4wHar/Problem-solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2211-count-collisions-on-a-road](https://github.com/J4wHar/Problem-solving/tree/master/2211-count-collisions-on-a-road) |
@@ -354,4 +355,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/J4wHar/Problem-solving/tree/master/0743-network-delay-time) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/J4wHar/Problem-solving/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
